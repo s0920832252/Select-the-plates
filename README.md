@@ -2,7 +2,7 @@
 it is just a small game at https://flukeout.github.io/   
 
 Select the plates  
-    https://flukeout.github.io/
+ 
 
 my Answer
 1.  Type Selector
