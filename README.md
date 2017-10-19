@@ -1,5 +1,5 @@
-# Select the plates
-it is just a small game at https://flukeout.github.io/   
+# [Select the plates]( https://flukeout.github.io/   )
+### it is just a small game
 
 Select the plates  
  
