@@ -1,8 +1,6 @@
 # [Select the plates]( https://flukeout.github.io/   )
 ### it is just a small game
 
-Select the plates  
- 
 
 my Answer
 1.  Type Selector
